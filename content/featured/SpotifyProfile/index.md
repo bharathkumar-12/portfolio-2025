@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Smart Expense Tracker'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/bharathkumar-12/Expense-Tracker'
+cta: 'https://track-transactions.netlify.app/'
+external: 'https://track-transactions.netlify.app/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Tailwind
+  - Vue 3
+  - Formkit
+  - Comp API
+  - Toast
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Smart Expense Tracker is an intuitive and scalable expense management solution built with [Vue 3 (Composition API)](https://vuejs.org/) and FormKit, designed to streamline financial tracking for individuals and businesses. With real-time toast notifications and a user-friendly interface, it enhances budgeting and financial decision-making.

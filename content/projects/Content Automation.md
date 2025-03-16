@@ -1,9 +1,8 @@
 ---
-date: '3'
+date: '2002-12-24'
 title: 'Content Automation Solution'
-cover: './demo.png'
+cta: 'https://frolicking-beijinho-828b00.netlify.app/'
 external: 'https://frolicking-beijinho-828b00.netlify.app/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - Nuxt 3
   - Tailwind

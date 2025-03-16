@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Neo Asteroid'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/bharathkumar-12/asteroid-stats'
+cta: 'https://tiny-biscuit-8f1acb.netlify.app/'
+external: 'https://tiny-biscuit-8f1acb.netlify.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Nuxt JS
+  - Vue JS
+  - Tailwind
+  - Chart JS
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Neo Asteroid is a web application that utilizes NASA's Asteroid NeoWs API to fetch and display real-time data on Near-Earth Objects (NEOs). This project integrates with [NASA’s Open API](https://api.nasa.gov/) to provide insights into asteroids approaching Earth, offering key details such as their size, velocity, closest approach date, and potential hazards.

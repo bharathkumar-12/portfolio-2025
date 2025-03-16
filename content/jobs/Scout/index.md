@@ -1,11 +1,13 @@
 ---
 date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
+title: 'Software Developer'
+company: 'Reveal IQ'
+location: 'Tirupati, IN'
+range: 'December 2020 - May 2022'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Developed reusable components and libraries, improving code reusability and reducing development time by 20%.
+- Conducted thorough code reviews and enforced coding standards, reducing defects by 35% through ESLint and Prettier.
+- Optimized application performance, decreasing load time by 30% and enhancing user experience.
+- Implemented CI/CD pipelines with GitHub Actions, increasing deployment frequency and reliability by 40%.
