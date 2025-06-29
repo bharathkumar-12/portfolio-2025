@@ -1,9 +1,9 @@
 ---
 date: '3'
-title: 'Content Automation Solution'
+title: 'Fertilization Dashboard'
 cover: './demo.png'
-external: 'https://frolicking-beijinho-828b00.netlify.app/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://shimmering-babka-b3fff3.netlify.app/'
+cta: 'https://shimmering-babka-b3fff3.netlify.app/'
 tech:
   - Nuxt 3
   - Tailwind
@@ -11,4 +11,4 @@ tech:
   - JSON Markdown
 ---
 
-Content Automation Solution transforms raw business data into structured, actionable content. Built with Nuxt 3 and Tailwind CSS, it automates the conversion of JSON to HTML/Markdown, saving time and improving content quality for reports and documentation. This project highlights innovation in automation, efficiency, and real-world business impact for international clients.
+Built a responsive ICMS Fertilization Dashboard with charts, graphs, a left-side menu, and dynamic cards for visualizing fertility cycle stages.

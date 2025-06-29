@@ -3,7 +3,7 @@ date: '3'
 title: 'Content Automation Solution'
 cover: './demo.png'
 external: 'https://frolicking-beijinho-828b00.netlify.app/'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://frolicking-beijinho-828b00.netlify.app/'
 tech:
   - Nuxt 3
   - Tailwind
