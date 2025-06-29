@@ -60,9 +60,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m actively exploring new opportunities as a Vue.js/Nuxt.js developer. If you have a role
-        that aligns with my expertise or just want to connect, feel free to reach out—I’d love to
-        chat!
+        I’m actively seeking new opportunities as a frontend developer specializing in Vue.js,
+        Nuxt.js, and TypeScript. If you’re looking for a reliable partner to elevate your next
+        project or want to discuss collaboration, let’s connect!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

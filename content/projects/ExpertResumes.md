@@ -1,7 +1,7 @@
 ---
 date: '2024-03-15'
 title: 'Expert Resumes - AI Resume Generator'
-github: ''
+github: 'https://github.com/yourusername/expertresumes'
 external: 'https://expertresumes.in/'
 tech:
   - Vue.js
@@ -12,8 +12,6 @@ tech:
   - PDF Generation
 company: ''
 showInProjects: true
-ios: ''
-android: ''
 ---
 
-Developed 'Expert Resumes,' an AI-powered resume builder with dynamic templates, real-time previews, and PDF generation.
+Expert Resumes is an AI-powered resume builder featuring dynamic templates, real-time previews, and seamless PDF generation. Leveraged Nuxt.js, Vue.js, and Tailwind CSS to deliver a fast, accessible, and user-friendly experience. Integrated OpenAI API for intelligent content suggestions, resulting in higher user engagement and satisfaction.

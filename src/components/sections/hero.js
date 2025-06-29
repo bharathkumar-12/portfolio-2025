@@ -61,19 +61,19 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Bharath Kumar.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = (
+    <h3 className="big-heading">I build high-impact, accessible, and performant web interfaces.</h3>
+  );
   const four = (
     <>
       <p>
-        I am a Frontend Engineer with a strong focus on developing and occasionally designing
-        exceptional digital experiences. My expertise lies in crafting accessible, user-centric
-        products that drive engagement and innovation. Currently, I am dedicated to building
-        high-performance, human-centered solutions at{' '}
-        <a href="https://ranium.in/" target="_blank" rel="noreferrer">
-          Ranium Systems
-        </a>
-        .
+        Frontend engineer delivering fast, accessible, and beautiful web apps with Vue.js, Nuxt.js,
+        TypeScript, and Tailwind CSS. Proven results for global clients.
       </p>
+      {/* <p>
+        <strong>Let’s work together:</strong>{' '}
+        <a href="mailto:bharathkumarakkiraju@gmail.com">Hire me</a> for your next project.
+      </p> */}
     </>
   );
   // const five = (

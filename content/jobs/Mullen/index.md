@@ -7,7 +7,8 @@ range: 'May 2022 - December 2024'
 url: 'https://www.ordant.com/'
 ---
 
-- Develop and maintain high-performance web applications using Vue.js and Nuxt.js, ensuring a seamless and responsive user experience.
-- Implement modern, scalable UI components using Tailwind CSS, adhering to best practices for design consistency and performance optimization.
-- Optimize application performance and maintainability by leveraging Vue.js best practices, reusable components, and efficient state management.
-- Collaborate with designers, backend developers, and stakeholders to deliver high-quality, user-centric solutions while ensuring seamless API integration.
+- Built robust web apps with Vue/Nuxt and Tailwind CSS
+- Improved speed, UX, and scalability for international clients
+- Drove results through efficient, modern development
+- Collaborated globally to deliver seamless user experiences
+- Automated workflows for faster, more reliable releases

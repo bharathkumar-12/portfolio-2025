@@ -12,4 +12,4 @@ tech:
   - Chart JS
 ---
 
-Neo Asteroid is a web application that utilizes NASA's Asteroid NeoWs API to fetch and display real-time data on Near-Earth Objects (NEOs). This project integrates with [NASA’s Open API](https://api.nasa.gov/) to provide insights into asteroids approaching Earth, offering key details such as their size, velocity, closest approach date, and potential hazards.
+Neo Asteroid is a real-time web application leveraging NASA's NeoWs API to deliver up-to-date insights on Near-Earth Objects. Built with Nuxt.js, Vue.js, and Tailwind CSS, it features interactive data visualizations and a responsive, accessible interface for global users. The project demonstrates expertise in API integration, frontend performance, and accessibility for international audiences.

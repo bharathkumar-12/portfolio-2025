@@ -13,4 +13,4 @@ tech:
   - Toast
 ---
 
-Smart Expense Tracker is an intuitive and scalable expense management solution built with [Vue 3 (Composition API)](https://vuejs.org/) and FormKit, designed to streamline financial tracking for individuals and businesses. With real-time toast notifications and a user-friendly interface, it enhances budgeting and financial decision-making.
+Smart Expense Tracker is a scalable financial management tool built with Vue 3 (Composition API) and FormKit. It streamlines expense tracking for individuals and businesses, offering real-time notifications and a user-friendly, accessible interface. The project demonstrates measurable impact by improving budgeting efficiency and financial decision-making for users globally.

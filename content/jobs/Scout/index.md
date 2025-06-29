@@ -4,10 +4,11 @@ title: 'Software Developer'
 company: 'Reveal IQ'
 location: 'Tirupati, IN'
 range: 'December 2020 - May 2022'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.linkedin.com/company/revealiq/?originalSubdomain=in'
 ---
 
-- Developed reusable components and libraries, improving code reusability and reducing development time by 20%.
-- Conducted thorough code reviews and enforced coding standards, reducing defects by 35% through ESLint and Prettier.
-- Optimized application performance, decreasing load time by 30% and enhancing user experience.
-- Implemented CI/CD pipelines with GitHub Actions, increasing deployment frequency and reliability by 40%.
+- Architected scalable web solutions for international clients
+- Elevated code standards and reliability across teams
+- Enabled faster delivery through automation and best practices
+- Enhanced product stability and maintainability
+- Supported global teams with clear, effective communication

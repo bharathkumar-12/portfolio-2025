@@ -125,7 +125,23 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'Nuxt JS', 'Vue JS', 'Storybook', 'Node JS'];
+  const skills = [
+    'TypeScript',
+    'JavaScript (ES6+)',
+    'Nuxt.js',
+    'Vue.js',
+    'Tailwind CSS',
+    'Storybook',
+    'Node.js',
+    'Jest',
+    'Cypress',
+    'Pinia',
+    'Chart.js',
+    'OpenAI API',
+    'Vite',
+    'Netlify',
+    'AWS',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,18 +151,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Bharath, and I’m a passionate frontend developer with expertise in
-              building scalable and high-performance web applications. My journey started with a
-              curiosity for web technologies, and over the years, I’ve honed my skills in crafting
-              seamless digital experiences using modern frameworks.
+              Hi, I’m Bharath—a frontend developer with 5+ years of global experience building fast,
+              accessible, and impactful web apps using Vue.js, Nuxt.js, TypeScript, and Tailwind
+              CSS.
             </p>
-
             <p>
-              With 4+ years of experience, I have worked on various projects ranging from eCommerce
-              platforms to enterprise applications. I specialize in Vue.js and Nuxt.js, ensuring
-              responsive, accessible, and performant UI solutions. My past experience includes
-              collaborating with product teams to deliver intuitive user experiences and optimizing
-              frontend architectures for better maintainability.
+              I deliver measurable results, optimize user experience, and thrive in cross-functional
+              teams. Let’s create something exceptional.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
