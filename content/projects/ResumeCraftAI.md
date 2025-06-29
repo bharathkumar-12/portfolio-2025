@@ -1,8 +1,7 @@
 ---
 date: '2025-06-29'
 title: 'ResumeCraft AI'
-github: 'https://github.com/yourusername/resumecraft-ai'
-external: 'https://resumecraftai.example.com'
+external: 'https://expertresumes.in/'
 tech:
   - Nuxt.js
   - TypeScript

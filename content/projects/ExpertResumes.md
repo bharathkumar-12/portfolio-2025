@@ -3,6 +3,7 @@ date: '2024-03-15'
 title: 'Expert Resumes - AI Resume Generator'
 github: 'https://github.com/yourusername/expertresumes'
 external: 'https://expertresumes.in/'
+cta: 'https://expertresumes.in/',
 tech:
   - Vue.js
   - Nuxt.js
